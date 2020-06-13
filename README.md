@@ -1,0 +1,6 @@
+# Medical_Resources_Analysis
+一个基于Echarts和Openlayers的全国医疗资源和发热门诊数据分析JavaScript网页，将Openlayers的绘制功能和Echarts的显示功能相结合，部分代码参考其他开源资料
+
+绿色为发热门诊数据，黄色为医疗点数据
+数据使用python爬取自门户网站，转为json后使用jquery导入本地文件
+数据展示使用echarts，绘制交互使用openlayers
